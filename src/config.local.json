@@ -1,0 +1,21 @@
+{
+    "api": {
+        "port": 0
+    },
+    "persistence": {
+        "mongo": {
+            "databaseName": "",
+            "password": "",
+            "user": ""
+        }
+    },
+    "authentication": {
+        "accessToken": {
+            "expiresIn": "",
+            "secret": ""
+        },
+        "refreshToken": {
+            "secret": ""
+        }
+    }
+}
